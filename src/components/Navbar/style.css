@@ -1,0 +1,9 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+  border-bottom: 5px;
+  border-color: black;
+  border-style: solid;
+  height: 15vh;
+  background-color: cadetblue;
+  color: #c2b53d;
+}
