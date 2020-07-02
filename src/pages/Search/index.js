@@ -8,6 +8,8 @@ import Employees from "../../utils/employees.json";
 
 function Search() {
 
+    const [search, setSearch] = useState("Wikipedia");
+    const [employee, setEmployee] = useState ({firstName: "", lastName: "", email: "", phoneNumber: "", dob: ""})
 
     return (
         <div>
