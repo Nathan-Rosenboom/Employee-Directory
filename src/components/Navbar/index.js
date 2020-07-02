@@ -11,8 +11,11 @@ function Navbar() {
         <ul className="navbar-nav">
           <li className="nav-item">
             <h3>
-              Search for Employees
+              Search for Employees and their contact information
             </h3>
+          </li>
+          <li>
+            <p>Use the search bar to look for someone specific, or click on the column headers to switch between ascending and descending order.</p>
           </li>
         </ul>
       </div>
