@@ -1,11 +1,11 @@
 [
     {
-        "id": 1,  
+        "id": 1,
         "firstName": "Emilie",
         "lastName": "Novak",
-        "email": "emilie.novak@example.com",  
+        "email": "emilie.novak@example.com",
         "dob": "1947-07-21",
-        "age": 73,
+        "age": "73",
         "phone": "047-142-2987",
         "picture": {
             "large": "https://randomuser.me/api/portraits/women/10.jpg",
@@ -19,7 +19,7 @@
         "lastName": "Giraud",
         "email": "victoria.giraud@example.com",
         "dob": "1951-01-20",
-        "age": 69,
+        "age": "69",
         "phone": "03-04-48-88-02",
         "picture": {
             "large": "https://randomuser.me/api/portraits/women/40.jpg",
@@ -33,7 +33,7 @@
         "lastName": "Nieto",
         "email": "xavier.nieto@example.com",
         "dob": "1994-02-08",
-        "age": 26,
+        "age": "26",
         "phone": "966-141-425",
         "picture": {
             "large": "https://randomuser.me/api/portraits/men/56.jpg",
@@ -47,7 +47,7 @@
         "lastName": "Mason",
         "email": "maria.mason@example.com",
         "dob": "1959-10-27",
-        "age": 61,
+        "age": "61",
         "phone": "051-298-1016",
         "picture": {
             "large": "https://randomuser.me/api/portraits/women/56.jpg",
@@ -61,7 +61,7 @@
         "lastName": "Alves",
         "email": "sifredo.alves@example.com",
         "dob": "1972-05-21",
-        "age": 48,
+        "age": "48",
         "phone": "(49) 5424-9660",
         "picture": {
             "large": "https://randomuser.me/api/portraits/men/50.jpg",
@@ -75,7 +75,7 @@
         "lastName": "Almeida",
         "email": "zilena.almeida@example.com",
         "dob": "1947-04-14",
-        "age": 73, 
+        "age": "73",
         "phone": "(25) 2838-7205",
         "picture": {
             "large": "https://randomuser.me/api/portraits/women/95.jpg",
@@ -89,7 +89,7 @@
         "lastName": "Latvala",
         "email": "eevi.latvala@example.com",
         "dob": "1982-12-06",
-        "age": 38,
+        "age": "38",
         "phone": "09-339-114",
         "picture": {
             "large": "https://randomuser.me/api/portraits/women/47.jpg",
@@ -103,20 +103,21 @@
         "lastName": "Friis",
         "email": "marianne.friis@example.com",
         "dob": "1987-07-09",
-        "age": 33,
+        "age": "33",
         "phone": "77417222",
         "picture": {
             "large": "https://randomuser.me/api/portraits/women/32.jpg",
             "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
             "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
         }
-    },  
+    },
     {
         "id": 9,
         "firstName": "Jakob",
         "lastName": "Perez",
+        "email": "Jakob.perez@example.com",
         "dob": "1993-11-15",
-        "age": 27,
+        "age": "27",
         "phone": "016974 77617",
         "picture": {
             "large": "https://randomuser.me/api/portraits/men/22.jpg",
@@ -128,8 +129,9 @@
         "id": 10,
         "firstName": "Wanda",
         "lastName": "Watts",
+        "email": "Wanda.watts@example.com",
         "dob": "1972-07-05",
-        "age": 48,
+        "age": "48",
         "phone": "04-0929-2516",
         "picture": {
             "large": "https://randomuser.me/api/portraits/women/14.jpg",
@@ -138,4 +140,3 @@
         }
     }
 ]
-       
