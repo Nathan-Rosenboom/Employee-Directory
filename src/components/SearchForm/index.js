@@ -6,12 +6,11 @@ function SearchForm(props) {
   return (
     <form className="search">
       <div className="form-group">
-        <label htmlFor="filter">Search:</label>
         <input
           type="text"
           className="form-control"
-          onChange={props.Userfilter}
-          placeholder="Enter employee details to filter"
+          onChange={props.userFilter}
+          placeholder="Search"
         />
       </div>
     </form>

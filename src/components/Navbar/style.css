@@ -7,3 +7,25 @@ nav.navbar.navbar-default {
   background-color: cadetblue;
   color: #c2b53d;
 }
+.header {
+  font-family: monospace;
+  font-size: 50px;
+  text-align: center;
+  margin: 0px;
+  color: gray;
+}
+.subheader {
+  font-family: monospace;
+  text-align: center;
+  color: azure;
+}
+
+.navbar {
+  background-color: #2c2c2b;
+}
+
+.nav-text {
+  font-family: monospace;
+  text-align: center;
+  color: azure;
+}

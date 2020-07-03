@@ -1,7 +1,13 @@
 import React from "react";
+import "./style.css";
 
-function Container(props) {
-  return <div className={`container${props.fluid ? "-fluid" : ""}`} {...props} />;
+function ResultContainer(props) {
+  return (
+    <div
+      className={`container${props.fluid ? "-fluid" : ""} ResultContainer`}
+      {...props}
+    />
+  );
 }
 
-export default Container;
+export default ResultContainer;

@@ -5,7 +5,9 @@ function ResultTableBody(props) {
   return (
     <tbody>
       <tr>
-        <td>{props.profileImage}</td>
+        <td>
+          <img src={props.profileImage} alt="profile"></img>
+        </td>
         <td>{props.firstName}</td>
         <td>{props.lastName}</td>
         <td>{props.email}</td>
