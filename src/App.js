@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Container from "./components/Container";
+import Container from "./components/container";
 import Navbar from "./components/Navbar";
 import SearchForm from "./components/SearchForm";
 import ResultContainer from "./components/ResultContainer";
