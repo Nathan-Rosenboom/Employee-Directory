@@ -1,12 +1,12 @@
 import React, { Component } from "react";
-import Container from "/components/Container";
-import Navbar from "/components/Navbar";
-import SearchForm from "/components/SearchForm";
-import ResultContainer from "/components/ResultContainer";
-import ResultTableHead from "/components/ResultTableHead";
-import ResultTableBody from "/components/ResultTableBody";
-import Footer from "/components/Footer";
-import employee from "/utils/employees.json";
+import Container from "./components/Container";
+import Navbar from "./components/Navbar";
+import SearchForm from "./components/SearchForm";
+import ResultContainer from "./components/ResultContainer";
+import ResultTableHead from "./components/ResultTableHead";
+import ResultTableBody from "./components/ResultTableBody";
+import Footer from "./components/Footer";
+import employee from "./utils/employees.json";
 
 class App extends Component {
   state = {
